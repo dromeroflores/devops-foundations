@@ -1,0 +1,6 @@
+git config --global user.name "dromeroflores"
+git config --global user.email "diego.romero@banrural.com.gt"
+
+git clone https://github.com/dromeroflores/devops-foundations.git
+
+git push origin master
